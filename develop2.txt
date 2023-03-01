@@ -4,4 +4,11 @@ develop 2 matic
 text iz prvega faila
 da vidimo merge
 
-delete tole
+tole
+
+
+
+dodateeek1
+
+
+dodateeek
