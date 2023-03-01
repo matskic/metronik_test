@@ -9,4 +9,5 @@ da vidimo merge
 
 delete tole
 
-test kaj je kle
+evo dodamo besedilo ki mora biti vidno,
+probamo vse pokazat
