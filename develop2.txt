@@ -20,6 +20,3 @@ dodamo text
 
 
 dodatek teksa
-
-
-visual studio text
