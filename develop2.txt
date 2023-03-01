@@ -1,13 +1,16 @@
 develop 2 matic
 
-novi text 
-
-zdej se mora ta vidt
 
 text iz prvega faila
 da vidimo merge
 
-delete tole
+tole
 
 evo dodamo besedilo ki mora biti vidno,
 probamo vse pokazat
+
+
+dodateeek1
+
+
+dodateeek
