@@ -6,3 +6,6 @@ text - matic new
 
 test spremembe
 
+text - matic new
+
+txt - blablabla luka
